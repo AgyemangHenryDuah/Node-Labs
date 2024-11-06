@@ -1,0 +1,22 @@
+{
+  "name": "solutions",
+  "version": "1.0.0",
+  "description": "Functional Data Transformation Playground",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgyemangHenryDuah/Node-Labs.git"
+  },
+  "author": "Henry Agyemang Duah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgyemangHenryDuah/Node-Labs/issues"
+  },
+  "homepage": "https://github.com/AgyemangHenryDuah/Node-Labs#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
