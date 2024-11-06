@@ -33,7 +33,7 @@ To get started with a lab, navigate to the lab folder and follow the setup instr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//nodejs-backend-labs.git
+   git clone https://github.com/AgyemangHenryDuah/nodejs-backend-labs.git
    cd nodejs-backend-labs
    ```
 
