@@ -1,0 +1,21 @@
+{
+    "items": [
+      { "name": "Milk", "quantity": 1, "unit": "liter" },
+      { "name": "Eggs", "quantity": 12, "unit": "pieces" },
+      { "name": "Bread", "quantity": 1, "unit": "loaf" },
+      { "name": "Apples", "quantity": 2, "unit": "kg" },
+      { "name": "Bananas", "quantity": 1, "unit": "bunch" },
+      { "name": "Tomatoes", "quantity": 500, "unit": "g" },
+      { "name": "Onions", "quantity": 1, "unit": "piece" },
+      { "name": "Potatoes", "quantity": 1, "unit": "kg" },
+      { "name": "Carrots", "quantity": 500, "unit": "g" },
+      { "name": "Lettuce", "quantity": 1, "unit": "head" },
+      { "name": "Cucumber", "quantity": 1, "unit": "piece" },
+      { "name": "Yogurt", "quantity": 1, "unit": "container" },
+      { "name": "Cheese", "quantity": 200, "unit": "g" },
+      { "name": "Coffee", "quantity": 250, "unit": "g" },
+      { "name": "Tea", "quantity": 1, "unit": "box" },
+      { "name": "Pasta", "quantity": 500, "unit": "g" },
+      { "name": "Rice", "quantity": 1, "unit": "kg" }
+    ]
+  }
