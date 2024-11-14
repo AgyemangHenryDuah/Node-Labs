@@ -1,0 +1,19 @@
+{
+  "name": "grocerylist",
+  "version": "1.0.0",
+  "description": "Solution for handling grocery lists",
+  "main": "groceries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgyemangHenryDuah/Node-Labs.git"
+  },
+  "author": "Henry Duah Agyemang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgyemangHenryDuah/Node-Labs/issues"
+  },
+  "homepage": "https://github.com/AgyemangHenryDuah/Node-Labs#readme"
+}
