@@ -1,20 +1,19 @@
 {
-    "Milk": 2.5,
-    "Eggs": 3.0,
-    "Bread": 2.0,
-    "Apples": 3.5,
-    "Bananas": 1.2,
-    "Tomatoes": 1.0,
-    "Onions": 0.5,
-    "Potatoes": 1.0,
-    "Carrots": 0.8,
-    "Lettuce": 1.5,
-    "Cucumber": 0.7,
-    "Yogurt": 1.2,
-    "Cheese": 4.0,
-    "Coffee": 5.0,
-    "Tea": 3.0,
-    "Pasta": 1.3,
-    "Rice": 2.0
-  }
-  
+  "Milk": 3.0,
+  "Eggs": 3.5,
+  "Bread": 2.2,
+  "Apples": 4.0,
+  "Bananas": 1.5,
+  "Tomatoes": 1.2,
+  "Onions": 0.7,
+  "Potatoes": 1.3,
+  "Carrots": 1.0,
+  "Lettuce": 2.0,
+  "Cucumber": 1.0,
+  "Yogurt": 1.5,
+  "Cheese": 4.5,
+  "Coffee": 6.0,
+  "Tea": 3.5,
+  "Pasta": 1.6,
+  "Rice": 2.5
+}

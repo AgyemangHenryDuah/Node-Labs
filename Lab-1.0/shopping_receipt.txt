@@ -1,21 +1,21 @@
 Grocery List:
 --------------------------------
-Milk - 1 liter - 2.5
-Eggs - 12 pieces - 36
-Bread - 1 loaf - 2
-Apples - 2 kg - 7
-Bananas - 1 bunch - 1.2
-Tomatoes - 500 g - 500
-Onions - 1 piece - 0.5
-Potatoes - 1 kg - 1
-Carrots - 500 g - 400
-Lettuce - 1 head - 1.5
-Cucumber - 1 piece - 0.7
-Yogurt - 1 container - 1.2
-Cheese - 200 g - 800
-Coffee - 250 g - 1250
-Tea - 1 box - 3
-Pasta - 500 g - 650
-Rice - 1 kg - 2
+Milk - 1 liter - 3
+Eggs - 12 pieces - 42
+Bread - 1 loaf - 2.2
+Apples - 2 kg - 8
+Bananas - 1 bunch - 1.5
+Tomatoes - 500 g - 600
+Onions - 1 piece - 0.7
+Potatoes - 1 kg - 1.3
+Carrots - 500 g - 500
+Lettuce - 1 head - 2
+Cucumber - 1 piece - 1
+Yogurt - 1 container - 1.5
+Cheese - 200 g - 900
+Coffee - 250 g - 1500
+Tea - 1 box - 3.5
+Pasta - 500 g - 800
+Rice - 1 kg - 2.5
 --------------------------------
-Total: $3658.60
+Total: $4369.20
