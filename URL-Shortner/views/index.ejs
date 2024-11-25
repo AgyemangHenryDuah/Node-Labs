@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <%= title %>
+    </title>
+</head>
+
+<body>
+    <h1><%= title %></h1>
+
+    <form action="/shorten" method="POST">
+        <label for="longURL">Enter a URL to shorten:</label>
+        <input type="text" id="longURL" name="longURL" required />
+        <button type="submit">Shorten</button>
+    </form>
+
+    <% if (shortenedUrl) { %>
+        <h3>Your shortened URL is: <a href="<%= shortenedUrl %>" target="_blank">
+                <%= shortenedUrl %>
+            </a></h3>
+    <% } %>
+
+    <h2>Recently Shortened URLs</h2>
+    <ul>
+        <% recentUrls.forEach(([shortcode, longURL]) => { %>
+            <li><a href="/<%= shortcode %>" target="_blank">
+                    <%= longURL %>
+                </a></li>
+        <% }) %>
+    </ul>
+
+</body>
+
+</html>
