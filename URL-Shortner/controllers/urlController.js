@@ -22,6 +22,7 @@ function showHomePage(req, res) {
 
 // Controller for shortening the URL
 function shortenUrl(req, res) {
+
   const longURL = req.body.longURL
 
   // Validate URL

@@ -1,5 +1,4 @@
 // /models/urlModel.js
-
 const urlMappings = new Map()
 
 // Save a new mapping
